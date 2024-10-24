@@ -3,6 +3,9 @@ This is an app to check Prime Numbers in Python!
 
 <img width="1183" alt="SCR-20230710-sgui" src="https://github.com/KaungZinLin/PyPrime/assets/116542070/75916118-e4f7-4ba1-af0e-30b289125413">
 
+NOTE
+There is a mobile (iOS) version of PyPrime available, under the name "ShortSum", written in SwiftUI. [Check it out here!](https://github.com/KaungZinLin/ShortSum)
+
 HIGHLIGHTS
 1. Show Prime Numbers Between the Given Range.
 2. Show Non-Prime Numbers Between the Given Range.
@@ -12,4 +15,4 @@ HIGHLIGHTS
 6. Find LCF (Lowest Common Factors) of two Numbers.
 
 HUGE THANKS FOR USING THIS APP!
-© Copyright 2023 unResolved. Do not Distribute!
+© Copyright 2024 Sourdome. Do not Distribute!
